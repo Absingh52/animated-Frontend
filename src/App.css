@@ -1,0 +1,40 @@
+/* .svg{
+    background-image: url('./assets/shape.svg');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ } */
+
+ .backimage{
+    background-image: url('./assets/smiles.png');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+ }
+
+ .footer-container:hover{
+    background-color:white;
+    transition: background-color 0.5s ease-in-out;
+ }
+
+ .footer-elements:hover{
+    color:blue;
+    transition: color 0.5s ease-in-out;
+ }
+ .footer-elements{
+    cursor: pointer;
+    transition: color 0.5s ease-in-out;
+ }
+
+ @keyframes scroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-55%); }
+  }
+  
+  .animate-scroll {
+    display: flex;
+    animation: scroll 40s linear infinite;
+  }
+
