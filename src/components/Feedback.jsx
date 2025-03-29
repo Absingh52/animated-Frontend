@@ -20,7 +20,7 @@ const Feedback = () => {
 
             <div >
 
-              <div className='flex flex-row animate-scroll space-x-4 items-center pb-8 justify-center'>
+              <div className='flex flex-row animate-scroll space-x-4 items-center  pb-8 justify-center'>
                 {/* card1 */}
                 <div className='flex flex-col space-y-40 bg-white py-3 px-5 min-w-[300px]   rounded-3xl transition-transform duration-300 hover:scale-105'>
                  <div className='space-y-5'>
@@ -38,8 +38,8 @@ const Feedback = () => {
 
                  
                  <div className='flex items-center space-x-3 '>
-                 <FaHeart className='text-[#ff4141]' />
-                 <FaComment className='text-[#2728e5]' />
+                 <FaHeart className='text-[#ff4141] icon-hover' />
+                 <FaComment className='text-[#2728e5] icon-hover' />
                 </div>
                 </div>  
 
@@ -59,8 +59,8 @@ const Feedback = () => {
                     </div>
 
                     <div className='flex items-center space-x-3 '>
-                 <FaHeart className='text-[#ff4141]' />
-                 <FaComment className='text-[#2728e5]' />
+                 <FaHeart className='text-[#ff4141] icon-hover' />
+                 <FaComment className='text-[#2728e5] icon-hover' />
                 </div>
 
               </div>
@@ -82,8 +82,8 @@ const Feedback = () => {
                  </p>
                     </div>
                  <div className='flex items-center space-x-3 '>
-                 <FaHeart className='text-[#ff4141]' />
-                 <FaComment className='text-[#2728e5]' />
+                 <FaHeart className='text-[#ff4141] icon-hover' />
+                 <FaComment className='text-[#2728e5] icon-hover' />
                  </div>
                  </div>
 
@@ -105,8 +105,8 @@ const Feedback = () => {
                         </p>
                    </div>
                         <div className='flex items-center space-x-3 '>
-                            <FaHeart className='text-[#ff4141]' />
-                            <FaComment className='text-[#2728e5]' />
+                            <FaHeart className='text-[#ff4141] icon-hover' />
+                            <FaComment className='text-[#2728e5] icon-hover' />
                         </div>
                  </div>
 
@@ -125,8 +125,8 @@ const Feedback = () => {
                     </p>
                    </div>
                    <div className='flex items-center space-x-3 '>
-                            <FaHeart className='text-[#ff4141]' />
-                            <FaComment className='text-[#2728e5]' />
+                            <FaHeart className='text-[#ff4141] icon-hover' />
+                            <FaComment className='text-[#2728e5] icon-hover' />
                         </div>
 
                 </div>
@@ -147,8 +147,8 @@ const Feedback = () => {
                     </div>
 
                     <div className='flex items-center space-x-3 '>
-                            <FaHeart className='text-[#ff4141]' />
-                            <FaComment className='text-[#2728e5]' />
+                            <FaHeart className='text-[#ff4141] icon-hover' />
+                            <FaComment className='text-[#2728e5] icon-hover' />
                         </div>
 
                 </div>
@@ -171,8 +171,8 @@ const Feedback = () => {
                        </div>
 
                        <div className='flex items-center space-x-3 '>
-                            <FaHeart className='text-[#ff4141]' />
-                            <FaComment className='text-[#2728e5]' />
+                            <FaHeart className='text-[#ff4141] icon-hover' />
+                            <FaComment className='text-[#2728e5] icon-hover' />
                         </div>
 
                     </div>
@@ -196,8 +196,8 @@ const Feedback = () => {
 
                         
                        <div className='flex items-center space-x-3 '>
-                            <FaHeart className='text-[#ff4141]' />
-                            <FaComment className='text-[#2728e5]' />
+                            <FaHeart className='text-[#ff4141] icon-hover' />
+                            <FaComment className='text-[#2728e5] icon-hover' />
                         </div>
 
                     </div>
@@ -218,8 +218,8 @@ const Feedback = () => {
 
                         </div>
                         <div className='flex items-center space-x-3 '>
-                            <FaHeart className='text-[#ff4141]' />
-                            <FaComment className='text-[#2728e5]' />
+                            <FaHeart className='text-[#ff4141] icon-hover' />
+                            <FaComment className='text-[#2728e5] icon-hover' />
                         </div> 
                       </div>
             </div>

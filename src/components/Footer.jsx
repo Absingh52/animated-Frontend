@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className='backimage py-25   '>
       <div className="max-w-[1400px] footer-container flex flex-col  p-4 space-y-8 w-full mx-auto rounded-4xl bg-[#ffffffda] backdrop-blur-md ">
-        <ul className='flex flex-col md:flex-row  py-4 justify-start items-center space-x-25'>
+        <ul className='flex flex-col md:flex-row px-4  py-4 justify-start items-center space-x-25'>
             <li className='space-y-5'>
                 <h3 className='text-2xl cursor-pointer'>Learn</h3>
 
